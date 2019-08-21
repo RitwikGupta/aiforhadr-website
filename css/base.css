@@ -16,6 +16,10 @@
     font-size: 125%;
 }
 
+.pull {
+    padding-bottom: 2em;
+}
+
 .small-gold {
     color: rgb(244, 195, 85);
     font-size: 100%;
@@ -23,14 +27,25 @@
 }
 
 h1 {
-    color: white;
-}
-
-h1 {
     font-family: "Open Sans";
     font-style: normal;
     font-variant: normal;
     font-weight: bold;
+}
+
+h1.hero {
+    color: white;
+}
+
+h2 {
+    font-family: "Open Sans";
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+}
+
+.h2-lead {
+    font-size: 2rem;
 }
 
 h3 {
