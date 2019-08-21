@@ -1,0 +1,63 @@
+.light {
+    font-weight: lighter;
+}
+
+.hero {
+    background: url(../images/hero.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.lead-hero {
+    color: white;
+    margin: -1pt;
+    font-size: 125%;
+}
+
+.small-gold {
+    color: rgb(244, 195, 85);
+    font-size: 100%;
+    font-weight: bold;
+}
+
+h1 {
+    color: white;
+}
+
+h1 {
+    font-family: "Open Sans";
+    font-style: normal;
+    font-variant: normal;
+    font-weight: bold;
+}
+
+h3 {
+    font-family: "Open Sans";
+    font-style: normal;
+    font-variant: normal;
+    font-weight: bold;
+}
+
+p {
+    font-family: "Open Sans";
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 400;
+}
+
+blockquote {
+    font-family: "Open Sans";
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 400;
+
+}
+
+pre {
+    font-family: "Open Sans";
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 400;
+}
