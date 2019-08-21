@@ -26,6 +26,10 @@
     font-weight: bold;
 }
 
+.button {
+    padding: .65em 1em;
+}
+
 h1 {
     font-family: "Open Sans";
     font-style: normal;
