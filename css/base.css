@@ -2,6 +2,13 @@
     font-weight: lighter;
 }
 
+.nav-logo {
+    max-width:100%;
+    max-height:100%;
+    height: auto;
+    width: 3em;
+}
+
 .hero {
     background: url(../images/hero.jpg) no-repeat center center fixed;
     -webkit-background-size: cover;
